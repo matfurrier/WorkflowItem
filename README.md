@@ -83,6 +83,6 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE par
 
 Para mais informações ou dúvidas sobre o Workflow de Itens App, entre em contato através do e-mail matfurrier@gmail.com.
 
-Link do Projeto: [https://github.com/matfurrier/AppItensDSV1](https://github.com/matfurrier/AppItensDSV1)
+Link do Projeto: [https://github.com/matfurrier/WorkflowItem](https://github.com/matfurrier/WorkflowItem)
 
 Agradecemos por utilizar o Workflow de Itens App! Esperamos que esta ferramenta seja útil para melhorar a eficiência e colaboração em seu fluxo de trabalho. 🚀
